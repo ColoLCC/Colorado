@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(42, 28, 49);
+}
+
+#Barra{
+    margin: 50px;
+    text-align: center;
+    vertical-align: auto;
+}
+.box{
+    width: 300px;
+    background-color: mediumslateblue;
+    outline-color: black;
+}
+.button{
+    font-size: large;
+    width: fit-content;
+    height: fit-content;
+    background-color:mediumpurple;
+    color:black;
+}
+#Logo{
+    margin: 50px;
+    text-align: center;
+}
+#LogoBus{
+    border-image-width: 400px;
+    height: 400px;
+}
